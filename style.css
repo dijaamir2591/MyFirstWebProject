@@ -2,7 +2,7 @@ body
 {
 margin: 0;
 padding: 20px 0;
-background-color:lightblue;
+background-color: lightblue;
 font-family:Century Gothic;
 }
 
@@ -39,7 +39,7 @@ background-color:lighblue;
 { margin: 0 0 10px; 
 font-size: 24px; 
 font-weight: normal; 
-color:lightblue; 
+color: lightblue; 
 }
 #sidebar ul 
 { margin: 0; 
@@ -53,7 +53,7 @@ text-decoration: none;
 
 featured
 {
-color:red;
+color: red;
 }
 #entries 
 {
